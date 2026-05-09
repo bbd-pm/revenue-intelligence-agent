@@ -1,0 +1,156 @@
+{
+  "target_revenue": 5000000,
+  "report_date": "2026-04-27",
+  "deals": [
+    {
+      "id": "D1",
+      "name": "Acme Corp Expansion",
+      "stage": "Proposal",
+      "value": 1200000,
+      "probability": 0.7,
+      "last_activity_days": 12,
+      "stage_days": 15,
+      "owner": "Rahul"
+    },
+    {
+      "id": "D2",
+      "name": "Zenith SaaS Deal",
+      "stage": "Demo",
+      "value": 800000,
+      "probability": 0.4,
+      "last_activity_days": 2,
+      "stage_days": 5,
+      "owner": "Priya"
+    },
+    {
+      "id": "D3",
+      "name": "Delta Manufacturing",
+      "stage": "Proposal",
+      "value": 1500000,
+      "probability": 0.75,
+      "last_activity_days": 9,
+      "stage_days": 20,
+      "owner": "Amit"
+    },
+    {
+      "id": "D4",
+      "name": "StartupX Pilot",
+      "stage": "Qualified",
+      "value": 300000,
+      "probability": 0.25,
+      "last_activity_days": 3,
+      "stage_days": 4,
+      "owner": "Neha"
+    },
+    {
+      "id": "D5",
+      "name": "GlobalTech Renewal",
+      "stage": "Proposal",
+      "value": 900000,
+      "probability": 0.8,
+      "last_activity_days": 15,
+      "stage_days": 18,
+      "owner": "Rahul"
+    },
+    {
+      "id": "D6",
+      "name": "FinEdge Integration",
+      "stage": "Demo",
+      "value": 600000,
+      "probability": 0.35,
+      "last_activity_days": 10,
+      "stage_days": 12,
+      "owner": "Priya"
+    },
+    {
+      "id": "D7",
+      "name": "RetailCo Rollout",
+      "stage": "Qualified",
+      "value": 450000,
+      "probability": 0.3,
+      "last_activity_days": 1,
+      "stage_days": 3,
+      "owner": "Amit"
+    },
+    {
+      "id": "D8",
+      "name": "EduPlus Platform",
+      "stage": "Demo",
+      "value": 700000,
+      "probability": 0.45,
+      "last_activity_days": 8,
+      "stage_days": 10,
+      "owner": "Neha"
+    },
+    {
+      "id": "D9",
+      "name": "HealthCorp Expansion",
+      "stage": "Proposal",
+      "value": 1100000,
+      "probability": 0.7,
+      "last_activity_days": 0,
+      "stage_days": 6,
+      "owner": "Rahul"
+    },
+    {
+      "id": "D10",
+      "name": "LogiChain Deal",
+      "stage": "Qualified",
+      "value": 400000,
+      "probability": 0.2,
+      "last_activity_days": 14,
+      "stage_days": 16,
+      "owner": "Priya"
+    },
+    {
+      "id": "D11",
+      "name": "AgroTech Pilot",
+      "stage": "Demo",
+      "value": 500000,
+      "probability": 0.4,
+      "last_activity_days": 6,
+      "stage_days": 8,
+      "owner": "Amit"
+    },
+    {
+      "id": "D12",
+      "name": "BankingSuite Upgrade",
+      "stage": "Proposal",
+      "value": 1300000,
+      "probability": 0.75,
+      "last_activity_days": 11,
+      "stage_days": 14,
+      "owner": "Neha"
+    },
+    {
+      "id": "D13",
+      "name": "MediaFlow SaaS",
+      "stage": "Qualified",
+      "value": 350000,
+      "probability": 0.25,
+      "last_activity_days": 2,
+      "stage_days": 3,
+      "owner": "Rahul"
+    },
+    {
+      "id": "D14",
+      "name": "TravelStack Integration",
+      "stage": "Demo",
+      "value": 650000,
+      "probability": 0.5,
+      "last_activity_days": 13,
+      "stage_days": 15,
+      "owner": "Priya"
+    },
+    {
+      "id": "D15",
+      "name": "InsurancePro Suite",
+      "stage": "Proposal",
+      "value": 1400000,
+      "probability": 0.8,
+      "last_activity_days": 4,
+      "stage_days": 7,
+      "owner": "Amit"
+    }
+  ]
+}
